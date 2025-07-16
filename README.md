@@ -2,6 +2,7 @@
 
 
 - 👨‍🎓 I'm a PhD student in Data Science at [Sapienza University of Rome](https://phd.uniroma1.it/web/ALESSIO-DEVOTO_nP1701081_IT.aspx)
+- <img src="https://img.icons8.com/?size=96&id=yqf95864UzeQ&format=png" alt="NVIDIA" width="20" height="20" style="display: inline;"> Deep Learning Intern @ Nvidia
 - 🌱 Working with [Simone Scardapane](https://www.sscardapane.it) on efficient and interpretable machine learning models
 - 🏴󠁧󠁢󠁳󠁣󠁴󠁿 Visiting researcher at Edinburgh NLP with [Pasquale Minervini](https://neuralnoise.com/)
 
